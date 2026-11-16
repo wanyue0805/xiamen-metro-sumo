@@ -1,0 +1,367 @@
+{
+  "line_name": "厦门地铁1号线",
+  "station_count": 24,
+  "published_length_km": 30.3,
+  "geometry": "schematic; model interval distances are estimates, not measured engineering distances",
+  "sources": [
+    {
+      "url": "https://www.xmgdjt.com.cn/Modules/ControlHtml/Line.aspx",
+      "use": "station names and sequence"
+    },
+    {
+      "url": "https://www.investxiamen.org.cn/detail/1173.html",
+      "use": "24 stations, endpoints and 30.3 km reference"
+    },
+    {
+      "url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201209/t20120905_1145854.html",
+      "use": "B type, 6 cars, 80 km/h planning reference"
+    }
+  ],
+  "stations": [
+    {
+      "id": 1,
+      "name": "镇海路",
+      "x": 3510.664,
+      "y": 329.125,
+      "tangent": [
+        0.14142225858419571,
+        0.9899493647540488
+      ],
+      "up_edge": "U01",
+      "down_edge": "D01",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 2,
+      "name": "中山公园",
+      "x": 3620.373,
+      "y": 1097.083,
+      "tangent": [
+        0.3589795616942099,
+        0.9333454206700931
+      ],
+      "up_edge": "U02",
+      "down_edge": "D02",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 3,
+      "name": "将军祠",
+      "x": 4059.206,
+      "y": 1755.332,
+      "tangent": [
+        0.7739571849059048,
+        0.633237929954079
+      ],
+      "up_edge": "U03",
+      "down_edge": "D03",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 4,
+      "name": "文灶",
+      "x": 4827.163,
+      "y": 2084.457,
+      "tangent": [
+        0.8778952949028289,
+        0.4788526403680731
+      ],
+      "up_edge": "U04",
+      "down_edge": "D04",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 5,
+      "name": "湖滨东路",
+      "x": 5265.996,
+      "y": 2413.582,
+      "tangent": [
+        0.7071067811865476,
+        0.7071067811865476
+      ],
+      "up_edge": "U05",
+      "down_edge": "D05",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 6,
+      "name": "莲坂",
+      "x": 5704.829,
+      "y": 2962.123,
+      "tangent": [
+        0.6401845718546468,
+        0.7682211361055373
+      ],
+      "up_edge": "U06",
+      "down_edge": "D06",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 7,
+      "name": "莲花路口",
+      "x": 6363.079,
+      "y": 3730.081,
+      "tangent": [
+        0.5547003129053332,
+        0.8320502165510958
+      ],
+      "up_edge": "U07",
+      "down_edge": "D07",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 8,
+      "name": "吕厝",
+      "x": 6801.912,
+      "y": 4607.747,
+      "tangent": [
+        0.13216399627386247,
+        0.9912278638582163
+      ],
+      "up_edge": "U08",
+      "down_edge": "D08",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 9,
+      "name": "乌石浦",
+      "x": 6582.496,
+      "y": 5375.705,
+      "tangent": [
+        -0.42288552562261694,
+        0.906183111859233
+      ],
+      "up_edge": "U09",
+      "down_edge": "D09",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 10,
+      "name": "塘边",
+      "x": 6033.954,
+      "y": 6253.371,
+      "tangent": [
+        -0.490261522522152,
+        0.8715753779990928
+      ],
+      "up_edge": "U10",
+      "down_edge": "D10",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 11,
+      "name": "火炬园",
+      "x": 5595.121,
+      "y": 7131.037,
+      "tangent": [
+        -0.410364590922952,
+        0.9119215440577321
+      ],
+      "up_edge": "U11",
+      "down_edge": "D11",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 12,
+      "name": "殿前",
+      "x": 5046.58,
+      "y": 8447.536,
+      "tangent": [
+        -0.24253569934667668,
+        0.9701424815677429
+      ],
+      "up_edge": "U12",
+      "down_edge": "D12",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 13,
+      "name": "高崎",
+      "x": 4827.163,
+      "y": 10202.868,
+      "tangent": [
+        -0.12933926806889048,
+        0.99160040022955
+      ],
+      "up_edge": "U13",
+      "down_edge": "D13",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 14,
+      "name": "集美学村",
+      "x": 4388.33,
+      "y": 13494.116,
+      "tangent": [
+        -0.4981244740191989,
+        0.8671055347436645
+      ],
+      "up_edge": "U14",
+      "down_edge": "D14",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 15,
+      "name": "园博苑",
+      "x": 1865.04,
+      "y": 15359.156,
+      "tangent": [
+        -0.7459376917859799,
+        0.6660157355295776
+      ],
+      "up_edge": "U15",
+      "down_edge": "D15",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 16,
+      "name": "杏林村",
+      "x": 1316.499,
+      "y": 16236.822,
+      "tangent": [
+        -0.4961388166013229,
+        0.8682432116990255
+      ],
+      "up_edge": "U16",
+      "down_edge": "D16",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 17,
+      "name": "杏锦路",
+      "x": 548.541,
+      "y": 17663.03,
+      "tangent": [
+        -0.08304526059452917,
+        0.9965457765164563
+      ],
+      "up_edge": "U17",
+      "down_edge": "D17",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 18,
+      "name": "官任",
+      "x": 1097.083,
+      "y": 18869.821,
+      "tangent": [
+        0.1414214765503003,
+        0.989949476473589
+      ],
+      "up_edge": "U18",
+      "down_edge": "D18",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 19,
+      "name": "诚毅广场",
+      "x": 877.666,
+      "y": 19966.903,
+      "tangent": [
+        0.049937503431269674,
+        0.9987523445534693
+      ],
+      "up_edge": "U19",
+      "down_edge": "D19",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 20,
+      "name": "集美软件园",
+      "x": 1206.791,
+      "y": 21063.986,
+      "tangent": [
+        0.3987262310210126,
+        0.9170700042503723
+      ],
+      "up_edge": "U20",
+      "down_edge": "D20",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 21,
+      "name": "集美大道",
+      "x": 1974.749,
+      "y": 22490.193,
+      "tangent": [
+        0.5780172891863542,
+        0.8160245176473919
+      ],
+      "up_edge": "U21",
+      "down_edge": "D21",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 22,
+      "name": "天水路",
+      "x": 3071.831,
+      "y": 23696.984,
+      "tangent": [
+        0.581238126897044,
+        0.8137335189367683
+      ],
+      "up_edge": "U22",
+      "down_edge": "D22",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 23,
+      "name": "厦门北站",
+      "x": 3620.373,
+      "y": 24794.067,
+      "tangent": [
+        0.32852059590529387,
+        0.9444968068056294
+      ],
+      "up_edge": "U23",
+      "down_edge": "D23",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    },
+    {
+      "id": 24,
+      "name": "岩内",
+      "x": 3949.497,
+      "y": 26220.274,
+      "tangent": [
+        0.22485905762599395,
+        0.9743912993266873
+      ],
+      "up_edge": "U24",
+      "down_edge": "D24",
+      "platform_length_m": 200,
+      "model_note": "schematic position and estimated interval distance"
+    }
+  ],
+  "simulation_parameters": {
+    "train_length_m": 120,
+    "carriages": 6,
+    "speed_limit_kmh": 80,
+    "station_dwell_seconds": 20,
+    "terminal_dwell_seconds": 40,
+    "platform_length_m": 210,
+    "values": "simulation assumptions except referenced 6-car B-type and 80 km/h configuration"
+  }
+}

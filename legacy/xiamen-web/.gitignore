@@ -1,0 +1,6 @@
+config/*.json
+config/*.txt
+agent/deps/
+server/node_modules/
+simulation/logs/
+**/__pycache__/

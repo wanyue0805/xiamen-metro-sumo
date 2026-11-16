@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration><input><net-file value="multimodal.net.xml" /><route-files value="multimodal.rou.xml" /><additional-files value="multimodal.decorated.add.xml,multimodal.style.add.xml" /></input><time><step-length value="0.5" /></time><processing><time-to-teleport value="-1" /></processing><report><no-step-log value="true" /><duration-log.disable value="true" /></report><gui_only><gui-settings-file value="multimodal.view.xml" /></gui_only></configuration>

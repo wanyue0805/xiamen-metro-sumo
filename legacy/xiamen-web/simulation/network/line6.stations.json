@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "角江路",
+    "x": 3177.931389675699,
+    "y": 545.295722812101,
+    "tangent": [
+      -0.34083841859643377,
+      0.9401218923143329
+    ],
+    "up_edge": "U01",
+    "down_edge": "D01",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 2,
+    "name": "角美中心",
+    "x": 2663.9234650541675,
+    "y": 1963.0646021235634,
+    "tangent": [
+      -0.38001885640282335,
+      0.9249787396358309
+    ],
+    "up_edge": "U02",
+    "down_edge": "D02",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 3,
+    "name": "文圃路",
+    "x": 2012.9772451694705,
+    "y": 3380.8334814350255,
+    "tangent": [
+      -0.41848304442437323,
+      0.9082246096254538
+    ],
+    "up_edge": "U03",
+    "down_edge": "D03",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 4,
+    "name": "角海路",
+    "x": 1357.391511137898,
+    "y": 4798.602360746489,
+    "tangent": [
+      -0.38229821234168465,
+      0.9240390017961104
+    ],
+    "up_edge": "U04",
+    "down_edge": "D04",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 5,
+    "name": "角美东",
+    "x": 839.8438449105912,
+    "y": 6216.371240057951,
+    "tangent": [
+      -0.27037174406152126,
+      0.962756002325164
+    ],
+    "up_edge": "U05",
+    "down_edge": "D05",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 6,
+    "name": "一农",
+    "x": 561.0845680498959,
+    "y": 7634.140119369413,
+    "tangent": [
+      -0.10332139167837394,
+      0.9946480231828966
+    ],
+    "up_edge": "U06",
+    "down_edge": "D06",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 7,
+    "name": "林埭",
+    "x": 545.295722812101,
+    "y": 9051.908998680876,
+    "tangent": [
+      0.06236541777641578,
+      0.9980533826732783
+    ],
+    "up_edge": "U07",
+    "down_edge": "D07",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 8,
+    "name": "鼎美",
+    "x": 738.2689752242467,
+    "y": 10469.677877992337,
+    "tangent": [
+      0.17133223946243709,
+      0.9852133087412015
+    ],
+    "up_edge": "U08",
+    "down_edge": "D08",
+    "stop_enabled": true,
+    "interchange_lines": [
+      2,
+      6
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 9,
+    "name": "马銮中心",
+    "x": 1038.406229902075,
+    "y": 11887.4467573038,
+    "tangent": [
+      0.20939287599811168,
+      0.9778315925972322
+    ],
+    "up_edge": "U09",
+    "down_edge": "D09",
+    "stop_enabled": true,
+    "interchange_lines": [
+      2,
+      6
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 10,
+    "name": "陈井",
+    "x": 1345.4710852545118,
+    "y": 13305.215636615263,
+    "tangent": [
+      0.19563799895644043,
+      0.9806761817054189
+    ],
+    "up_edge": "U10",
+    "down_edge": "D10",
+    "stop_enabled": false,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 11,
+    "name": "西滨",
+    "x": 1604.076064054379,
+    "y": 14722.984515926724,
+    "tangent": [
+      0.16565724711136204,
+      0.9861833888681583
+    ],
+    "up_edge": "U11",
+    "down_edge": "D11",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 12,
+    "name": "碑头",
+    "x": 1821.7794316290142,
+    "y": 16140.753395238187,
+    "tangent": [
+      0.1567095693256204,
+      0.9876447290811502
+    ],
+    "up_edge": "U12",
+    "down_edge": "D12",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 13,
+    "name": "杏滨",
+    "x": 2053.9907832608874,
+    "y": 17558.52227454965,
+    "tangent": [
+      0.1877583657813258,
+      0.9822152493619337
+    ],
+    "up_edge": "U13",
+    "down_edge": "D13",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 14,
+    "name": "内茂",
+    "x": 2363.8153407804334,
+    "y": 18976.29115386111,
+    "tangent": [
+      0.24707013472451145,
+      0.96899759985627
+    ],
+    "up_edge": "U14",
+    "down_edge": "D14",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 15,
+    "name": "董任",
+    "x": 2776.9819404560353,
+    "y": 20394.060033172576,
+    "tangent": [
+      0.29965615668927625,
+      0.9540472670461416
+    ],
+    "up_edge": "U15",
+    "down_edge": "D15",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 16,
+    "name": "官任",
+    "x": 3254.427762455319,
+    "y": 21811.828912484038,
+    "tangent": [
+      0.30856110301504286,
+      0.9512045235942374
+    ],
+    "up_edge": "U16",
+    "down_edge": "D16",
+    "stop_enabled": true,
+    "interchange_lines": [
+      1,
+      6
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 17,
+    "name": "杏林湾",
+    "x": 3696.801639310537,
+    "y": 23229.5977917955,
+    "tangent": [
+      0.24790024325826163,
+      0.968785564194933
+    ],
+    "up_edge": "U17",
+    "down_edge": "D17",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 18,
+    "name": "华侨大学",
+    "x": 3980.006802967497,
+    "y": 24647.36667110696,
+    "tangent": [
+      0.1958842793550021,
+      0.9806270183416178
+    ],
+    "up_edge": "U18",
+    "down_edge": "D18",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  }
+]

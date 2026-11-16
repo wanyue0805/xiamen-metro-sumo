@@ -1,0 +1,117 @@
+{
+  "routes": {
+    "B01": {
+      "id": "B01",
+      "name": "B01 · 湖滨东路接驳示范",
+      "metro_hub": "湖滨东路",
+      "community_name": "B01 · 湖滨东路社区",
+      "color": "#f4b85b",
+      "stops": [
+        "湖滨东路社区",
+        "湖滨东路地铁站"
+      ],
+      "headway": 180,
+      "hub_id": "H005",
+      "hub_point": [
+        5217.455053717108,
+        2584.4570266086735
+      ],
+      "community_point": [
+        3747.455053717108,
+        2394.4570266086735
+      ],
+      "road_length": 1200,
+      "community_walk": "B01_CWalk",
+      "hub_walk": "B01_HWalk",
+      "representation": "schematic feeder demonstration; not an official bus route",
+      "community_walk_pos": 32.142,
+      "hub_walk_pos": 188.35850000000002
+    },
+    "B02": {
+      "id": "B02",
+      "name": "B02 · 吕厝接驳示范",
+      "metro_hub": "吕厝",
+      "community_name": "B02 · 吕厝社区",
+      "color": "#61c8b5",
+      "stops": [
+        "吕厝社区",
+        "吕厝地铁站"
+      ],
+      "headway": 180,
+      "hub_id": "H008",
+      "hub_point": [
+        6753.371069530367,
+        4778.622049199036
+      ],
+      "community_point": [
+        5283.371069530367,
+        4588.622049199036
+      ],
+      "road_length": 1200,
+      "community_walk": "B02_CWalk",
+      "hub_walk": "B02_HWalk",
+      "representation": "schematic feeder demonstration; not an official bus route",
+      "community_walk_pos": 32.142,
+      "hub_walk_pos": 185.52050000000003
+    },
+    "B03": {
+      "id": "B03",
+      "name": "B03 · 厦门北站接驳示范",
+      "metro_hub": "厦门北站",
+      "community_name": "B03 · 厦门北站社区",
+      "color": "#98a5f8",
+      "stops": [
+        "厦门北站社区",
+        "厦门北站地铁站"
+      ],
+      "headway": 180,
+      "hub_id": "H023",
+      "hub_point": [
+        3571.8320367743445,
+        24964.94225703039
+      ],
+      "community_point": [
+        2101.8320367743445,
+        24774.94225703039
+      ],
+      "road_length": 1200,
+      "community_walk": "B03_CWalk",
+      "hub_walk": "B03_HWalk",
+      "representation": "schematic feeder demonstration; not an official bus route",
+      "community_walk_pos": 32.142,
+      "hub_walk_pos": 184.50850000000003
+    },
+    "B04": {
+      "id": "B04",
+      "name": "B04 · 五缘湾接驳示范",
+      "metro_hub": "五缘湾",
+      "community_name": "B04 · 五缘湾社区",
+      "color": "#f38fc1",
+      "stops": [
+        "五缘湾社区",
+        "五缘湾地铁站"
+      ],
+      "headway": 180,
+      "hub_id": "H055",
+      "hub_point": [
+        12000,
+        12500
+      ],
+      "community_point": [
+        10530,
+        12310
+      ],
+      "road_length": 1200,
+      "community_walk": "B04_CWalk",
+      "hub_walk": "B04_HWalk",
+      "representation": "schematic feeder demonstration; not an official bus route",
+      "community_walk_pos": 32.142,
+      "hub_walk_pos": 187.92950000000002
+    }
+  },
+  "people_per_full_dot": 20,
+  "bus_capacity_people": 80,
+  "metro_capacity_people": 1200,
+  "geometry": "original unified metro schematic plus schematic feeder roads",
+  "official_routes": false
+}

@@ -1,0 +1,17 @@
+{
+  "status": "built",
+  "depots": 10,
+  "parallel_storage_tracks": 30,
+  "preserved_original_edges": 676,
+  "original_geometry_changes": 0,
+  "outbound_routes": 30,
+  "inbound_routes": 30,
+  "source_net_sha256": "5984648947ee590cac7f5e00ddbfa9a54fca0249a49eacb6e411766304c7953b",
+  "derived_net_sha256": "47e2300f99356e608d7d2496bbffba61a618a479aa63778f0969269cc9b16fbd",
+  "bounded_reimport_trim_corrections": 41,
+  "maximum_reimport_displacement_m": 0.100499,
+  "sumo_loading_test": "passed end=1",
+  "physical": "30 storage tracks plus connected ingress/egress fans and signals",
+  "decorative": "maintenance/storage/wash/dispatch/power buildings, fence, access roads and lighting",
+  "limitation": "Simulation facility geometry, not measured engineering or official Xiamen vehicle depots"
+}

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<routes><vType id="metro" vClass="rail_urban" accel="1" decel="1.2" emergencyDecel="2.5" sigma="0" length="80" width="2.8" minGap="5" maxSpeed="22.22222222222222" guiShape="rail" color="0.9294117647058824,0.5725490196078431,0.3176470588235294"><param key="carriageLength" value="20" /><param key="locomotiveLength" value="20" /><param key="carriageGap" value="1" /></vType></routes>

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name": "厦门火车站",
+    "x": 3633.5219430573306,
+    "y": 493.35476780102147,
+    "tangent": [
+      -0.031483619387350927,
+      0.9995042679800183
+    ],
+    "up_edge": "U01",
+    "down_edge": "D01",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 2,
+    "name": "湖滨东路",
+    "x": 3593.1171694130812,
+    "y": 1776.0771640836772,
+    "tangent": [
+      -0.1200782775349718,
+      0.9927644268728781
+    ],
+    "up_edge": "U02",
+    "down_edge": "D02",
+    "stop_enabled": true,
+    "interchange_lines": [
+      1,
+      3
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 3,
+    "name": "体育中心",
+    "x": 3323.2225573585,
+    "y": 3058.799560366333,
+    "tangent": [
+      -0.25553801201059684,
+      0.9667990093176927
+    ],
+    "up_edge": "U03",
+    "down_edge": "D03",
+    "stop_enabled": true,
+    "interchange_lines": [
+      2,
+      3
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 4,
+    "name": "人才中心",
+    "x": 2915.0355248345068,
+    "y": 4341.521956648989,
+    "tangent": [
+      -0.3118754076484917,
+      0.9501230078806044
+    ],
+    "up_edge": "U04",
+    "down_edge": "D04",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 5,
+    "name": "湖里公园",
+    "x": 2481.1219726502623,
+    "y": 5624.244352931644,
+    "tangent": [
+      -0.29955058642483207,
+      0.954080419132758
+    ],
+    "up_edge": "U05",
+    "down_edge": "D05",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 6,
+    "name": "华荣路",
+    "x": 2109.568316156222,
+    "y": 6906.9667492143,
+    "tangent": [
+      -0.24497014453478821,
+      0.9695306226657334
+    ],
+    "up_edge": "U06",
+    "down_edge": "D06",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 7,
+    "name": "火炬园",
+    "x": 1832.9141007804756,
+    "y": 8189.689145496956,
+    "tangent": [
+      -0.18539712232165603,
+      0.9826636795134177
+    ],
+    "up_edge": "U07",
+    "down_edge": "D07",
+    "stop_enabled": true,
+    "interchange_lines": [
+      1,
+      3
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 8,
+    "name": "小东山",
+    "x": 1625.5511575570554,
+    "y": 9472.411541779611,
+    "tangent": [
+      -0.15527352706249817,
+      0.9878715158326874
+    ],
+    "up_edge": "U08",
+    "down_edge": "D08",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 9,
+    "name": "安兜",
+    "x": 1429.6777941946289,
+    "y": 10755.133938062267,
+    "tangent": [
+      -0.16500427461439546,
+      0.9862928517225383
+    ],
+    "up_edge": "U09",
+    "down_edge": "D09",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 10,
+    "name": "坂尚",
+    "x": 1196.3587971732024,
+    "y": 12037.856334344924,
+    "tangent": [
+      -0.1944423644908785,
+      0.980913944691988
+    ],
+    "up_edge": "U10",
+    "down_edge": "D10",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 11,
+    "name": "湖里创新园",
+    "x": 921.1406751776835,
+    "y": 13320.57873062758,
+    "tangent": [
+      -0.2059808815063322,
+      0.9785560160020857
+    ],
+    "up_edge": "U11",
+    "down_edge": "D11",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 12,
+    "name": "五缘湾",
+    "x": 656.3461957614238,
+    "y": 14603.301126910235,
+    "tangent": [
+      -0.16447821099043647,
+      0.9863807166147285
+    ],
+    "up_edge": "U12",
+    "down_edge": "D12",
+    "stop_enabled": true,
+    "interchange_lines": [
+      2,
+      3
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 13,
+    "name": "国际博览中心",
+    "x": 493.35476780102147,
+    "y": 15886.023523192891,
+    "tangent": [
+      -0.052068012783401986,
+      0.9986435410319277
+    ],
+    "up_edge": "U13",
+    "down_edge": "D13",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 14,
+    "name": "东界",
+    "x": 522.5871448428418,
+    "y": 17168.745919475547,
+    "tangent": [
+      0.11477010639409906,
+      0.9933920790293665
+    ],
+    "up_edge": "U14",
+    "down_edge": "D14",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 15,
+    "name": "洪坑",
+    "x": 789.749693839287,
+    "y": 18451.4683157582,
+    "tangent": [
+      0.2793739507263743,
+      0.9601823762471052
+    ],
+    "up_edge": "U15",
+    "down_edge": "D15",
+    "stop_enabled": true,
+    "interchange_lines": [
+      3,
+      4
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 16,
+    "name": "林前",
+    "x": 1269.0270554259596,
+    "y": 19734.190712040858,
+    "tangent": [
+      0.3869480153935208,
+      0.9221015309514541
+    ],
+    "up_edge": "U16",
+    "down_edge": "D16",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 17,
+    "name": "鼓锣",
+    "x": 1866.3055152578868,
+    "y": 21016.913108323515,
+    "tangent": [
+      0.4186581021697176,
+      0.9081439277381368
+    ],
+    "up_edge": "U17",
+    "down_edge": "D17",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 18,
+    "name": "翔安市民公园",
+    "x": 2451.707702481146,
+    "y": 22299.63550460617,
+    "tangent": [
+      0.37596381365653514,
+      0.9266343458025037
+    ],
+    "up_edge": "U18",
+    "down_edge": "D18",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 19,
+    "name": "浦边",
+    "x": 2907.1847059626557,
+    "y": 23582.357900888826,
+    "tangent": [
+      0.2689179628224792,
+      0.9631630855007929
+    ],
+    "up_edge": "U19",
+    "down_edge": "D19",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 20,
+    "name": "后村",
+    "x": 3167.98742471686,
+    "y": 24865.08029717148,
+    "tangent": [
+      0.12856357488403797,
+      0.9917012691395712
+    ],
+    "up_edge": "U20",
+    "down_edge": "D20",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 21,
+    "name": "蔡厝",
+    "x": 3239.7674745477957,
+    "y": 26147.802693454138,
+    "tangent": [
+      0.055871735258121405,
+      0.9984379546067179
+    ],
+    "up_edge": "U21",
+    "down_edge": "D21",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": 1,
+    "name": "集美软件园北",
+    "x": 9618.682432419848,
+    "y": 1526.3277505032665,
+    "tangent": [
+      -0.17086588189681937,
+      0.9852942963417693
+    ],
+    "up_edge": "U01",
+    "down_edge": "D01",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 2,
+    "name": "后溪",
+    "x": 8930.488986952614,
+    "y": 5494.77990181176,
+    "tangent": [
+      -0.2484038130305204,
+      0.9686565674540684
+    ],
+    "up_edge": "U02",
+    "down_edge": "D02",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 3,
+    "name": "厦门北站",
+    "x": 7583.330215059395,
+    "y": 9463.232053120253,
+    "tangent": [
+      -0.35618098411781646,
+      0.9344169875129967
+    ],
+    "up_edge": "U03",
+    "down_edge": "D03",
+    "stop_enabled": true,
+    "interchange_lines": [
+      1,
+      4
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 4,
+    "name": "官浔",
+    "x": 5905.100511429282,
+    "y": 13431.684204428746,
+    "tangent": [
+      -0.38413240602241405,
+      0.9232780158995616
+    ],
+    "up_edge": "U04",
+    "down_edge": "D04",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 5,
+    "name": "丙洲",
+    "x": 4281.158936602812,
+    "y": 17400.13635573724,
+    "tangent": [
+      -0.3427654541836389,
+      0.9394210149971544
+    ],
+    "up_edge": "U05",
+    "down_edge": "D05",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 6,
+    "name": "城场",
+    "x": 3009.1714608035304,
+    "y": 21368.588507045733,
+    "tangent": [
+      -0.2535528950158062,
+      0.967321523294661
+    ],
+    "up_edge": "U06",
+    "down_edge": "D06",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 7,
+    "name": "西岩",
+    "x": 2200.749253855652,
+    "y": 25337.040658354224,
+    "tangent": [
+      -0.15396432099075527,
+      0.9880764079067245
+    ],
+    "up_edge": "U07",
+    "down_edge": "D07",
+    "stop_enabled": false,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  },
+  {
+    "id": 8,
+    "name": "洪坑",
+    "x": 1772.4249177807296,
+    "y": 29305.49280966272,
+    "tangent": [
+      -0.08466774847855638,
+      0.9964092394029533
+    ],
+    "up_edge": "U08",
+    "down_edge": "D08",
+    "stop_enabled": true,
+    "interchange_lines": [
+      3,
+      4
+    ],
+    "platform_length_m": 210
+  },
+  {
+    "id": 9,
+    "name": "前浯",
+    "x": 1526.3277505032665,
+    "y": 33273.94496097121,
+    "tangent": [
+      -0.06189449067758056,
+      0.9980826979883796
+    ],
+    "up_edge": "U09",
+    "down_edge": "D09",
+    "stop_enabled": true,
+    "interchange_lines": [],
+    "platform_length_m": 210
+  }
+]

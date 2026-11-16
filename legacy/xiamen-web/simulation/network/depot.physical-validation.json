@@ -1,0 +1,31 @@
+{
+  "status": "pass",
+  "scenarios": [
+    {
+      "mode": "outbound",
+      "vehicles": 30,
+      "completed": 30,
+      "latest_completion_s": 446.5,
+      "collisions": 0,
+      "teleports": 0,
+      "red_hold": {
+        "signal": "L1_YU_EXIT",
+        "held_seconds": 180,
+        "no_held_depot_train_entered_base": true,
+        "state": "rrr"
+      },
+      "physically_present_end": 30
+    },
+    {
+      "mode": "inbound",
+      "vehicles": 30,
+      "completed": 30,
+      "latest_completion_s": 915.5,
+      "collisions": 0,
+      "teleports": 0,
+      "red_hold": {},
+      "physically_present_end": 30
+    }
+  ],
+  "scope": "actual storage-track departure, physical return/stabling and exit red hold"
+}

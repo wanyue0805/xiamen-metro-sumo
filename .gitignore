@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+.local/
+/legacy/xiamen-desktop/backups/
+/legacy/xiamen-desktop/logs/
+/legacy/xiamen-desktop/maps/
+/legacy/xiamen-desktop/runtime/
+/legacy/xiamen-desktop/Metro.exe
+/legacy/xiamen-web/config/
+/legacy/xiamen-web/agent/deps/
+/legacy/xiamen-web/server/node_modules/
+/legacy/xiamen-web/simulation/logs/
+/legacy/xiamen-web/simulation/maps/
+/legacy/xiamen-web/simulation/runtime/

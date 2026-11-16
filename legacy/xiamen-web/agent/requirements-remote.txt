@@ -1,0 +1,6 @@
+libsumo==1.27.1
+traci==1.27.1
+sumolib==1.27.1
+sumo-data==1.27.1
+websocket-client==1.9.2
+Pillow==12.3.0

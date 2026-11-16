@@ -1,0 +1,8 @@
+{
+  "status": "pass",
+  "preserved_original_noninternal_edges": 676,
+  "preserved_original_routes": 14,
+  "new_service_routes_preserved_full_original_stop_plan": 30,
+  "new_rail_signals": 60,
+  "base_net_sha256": "5984648947ee590cac7f5e00ddbfa9a54fca0249a49eacb6e411766304c7953b"
+}

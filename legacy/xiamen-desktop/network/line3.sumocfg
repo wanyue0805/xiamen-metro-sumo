@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<configuration><input><net-file value="line3.net.xml" /><route-files value="line3.rou.xml,line3.demo.rou.xml" /><additional-files value="line3.add.xml" /></input><time><step-length value="0.2" /></time><processing><time-to-teleport value="-1" /></processing><report><no-step-log value="true" /><duration-log.disable value="true" /></report><gui_only><gui-settings-file value="line3.view.xml" /></gui_only></configuration>
